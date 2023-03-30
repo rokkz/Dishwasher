@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>109.0.1</version>
+	<lang>Java</lang>
+	<BuildNo>202006101734</BuildNo>
+	<RMMMinimumClientVersion>100.0</RMMMinimumClientVersion>
+	
+	<RHAPSODY-MODEL>
+	<ISubsystem type="e">
+			<_id type="a">GUID 0396d9bd-cb8c-4cb5-af8e-5d574a4f0591</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Default</_name>
+			<_modifiedTimeWeak type="a">3.16.2023::9:47:53</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:47:53</_modifiedTime>
+			<_lastID type="a">8</_lastID>
+			<weakCGTime type="a">3.16.2023::9:47:53</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_defaultComposite type="s">GUID 66ccc629-afbf-4496-9ea9-b2ccffdfd3e0</_defaultComposite>
+			<_eventsBaseID type="a">-1</_eventsBaseID>
+			<Actors type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</Actors>
+			<_configurationRelatedTime type="a">1.1.1970::1:0:0</_configurationRelatedTime>
+			<AggregatesList type="e">
+				<value>GUID 62dbed7a-c6db-48d5-9159-1c97e0dd3e21</value>
+				<value>GUID 66ccc629-afbf-4496-9ea9-b2ccffdfd3e0</value>
+				<value>GUID 1be24895-0f7a-4da9-bd46-e1174213d23a</value>
+				<value>GUID 04382542-ab11-4540-8a0c-03ed84574ac8</value>
+				<value>GUID ce49fa7f-6a50-47ee-bc1c-ea7063a217b1</value>
+				<value>GUID f7852b5f-9ac0-48ed-9e44-a87983e1f75c</value>
+				<value>GUID 21f6eb7a-9017-4e54-8443-b93bda3a12a3</value>
+			</AggregatesList>
+		</ISubsystem>
+		<IComment type="e">
+			<_id type="a">GUID 62dbed7a-c6db-48d5-9159-1c97e0dd3e21</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">comment_5</_name>
+			<_modifiedTimeWeak type="a">3.16.2023::9:41:30</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:41:30</_modifiedTime>
+		</IComment>
+		<IClass type="e">
+			<_id type="a">GUID 66ccc629-afbf-4496-9ea9-b2ccffdfd3e0</_id>
+			<_myState type="a">40960</_myState>
+			<_name type="a">TopLevel</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.1.1970::1:0:0</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IUseCase type="e">
+			<_id type="a">GUID 1be24895-0f7a-4da9-bd46-e1174213d23a</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">usecase_1</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:38:11</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID 04382542-ab11-4540-8a0c-03ed84574ac8</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Wash dishes</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IUCDiagram</_hm2Class>
+					<_hname type="a">Dishwasher</_hname>
+					<_hid type="a">GUID 209915f0-14a4-4ec3-8a72-327d6d473ae6</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">3.16.2023::9:47:21</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID 52d961b0-d44b-4652-89af-382656833431</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID 52d961b0-d44b-4652-89af-382656833431</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsUSER</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:40:7</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+					<_hsubsystem type="a">telelogic::dishwasher</_hsubsystem>
+					<_hname type="a">USER</_hname>
+					<_hid type="a">GUID da891621-0f93-46b2-afd6-ecae726acccd</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+					<_hsubsystem type="a">telelogic::dishwasher</_hsubsystem>
+					<_hclass type="a">USER</_hclass>
+					<_hname type="a">itsWash dishes</_hname>
+					<_hid type="a">GUID e39a071d-c741-454b-8fd8-baebdea601f8</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID ce49fa7f-6a50-47ee-bc1c-ea7063a217b1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Service</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:40:10</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+			<AggregatesList type="e">
+				<value>GUID f5d97a64-fa2c-4467-ade2-cc1b6dfdb2b7</value>
+			</AggregatesList>
+		</IUseCase>
+		<IAssociationEnd type="e">
+			<_id type="a">GUID f5d97a64-fa2c-4467-ade2-cc1b6dfdb2b7</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">itsSERVICEMAN</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:40:10</_modifiedTime>
+			<_multiplicity type="a">1</_multiplicity>
+			<_otherClass type="r">
+				<IClassifierHandle type="e">
+					<_hm2Class type="a">IActor</_hm2Class>
+					<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+					<_hsubsystem type="a">telelogic::dishwasher</_hsubsystem>
+					<_hname type="a">SERVICEMAN</_hname>
+					<_hid type="a">GUID e02ba96a-fbe4-448a-853b-44e32be890bf</_hid>
+				</IClassifierHandle>
+			</_otherClass>
+			<_inverse type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+					<_hsubsystem type="a">telelogic::dishwasher</_hsubsystem>
+					<_hclass type="a">SERVICEMAN</_hclass>
+					<_hname type="a">itsService</_hname>
+					<_hid type="a">GUID efe4cac3-adf6-45f5-8661-334463fc18da</_hid>
+				</IHandle>
+			</_inverse>
+			<_linkType type="a">Assoc</_linkType>
+			<_navigability type="a">Navigable</_navigability>
+		</IAssociationEnd>
+		<IUseCase type="e">
+			<_id type="a">GUID f7852b5f-9ac0-48ed-9e44-a87983e1f75c</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">WASH DISHES</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:48:4</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		<IUseCase type="e">
+			<_id type="a">GUID 21f6eb7a-9017-4e54-8443-b93bda3a12a3</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">SERVICE</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">3.16.2023::9:47:55</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<UseCaseStereoTypes type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</UseCaseStereoTypes>
+			<_EntryPoints type="c">
+				<IRPYRawContainer type="e">
+				</IRPYRawContainer>
+			</_EntryPoints>
+		</IUseCase>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
