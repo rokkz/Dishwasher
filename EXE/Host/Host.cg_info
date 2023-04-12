@@ -1,0 +1,132 @@
+I-Logix-RPY-Archive version 8.15.0 * 202006101734
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 12;
+	- value = "EXE/Host/Default/actor_9.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/Dishwasher.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/DishwasherBuilder.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/Display.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/Heater.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/Jet.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/KeyReader.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/SERVICEMAN.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/USER.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/class_10.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/dishwasher_pkgClass.java" 4.12.2023::19:38:2
+	"EXE/Host/telelogic/dishwasher/object_0.java" 4.12.2023::19:38:2
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 4;
+	- value = "GUID 0396d9bd-cb8c-4cb5-af8e-5d574a4f0591" "GUID a7dcf73d-e4ca-4993-8369-687e3ef425f3"
+	"GUID 3474cd0c-53ba-4dff-a5cb-985eaf344935" "GUID a7dcf73d-e4ca-4993-8369-687e3ef425f3"
+	"GUID 48b8e4b4-95f6-49a7-8c7d-c7b11981cd88" "GUID 3474cd0c-53ba-4dff-a5cb-985eaf344935"
+	"GUID 539a6d26-fa87-4b36-a49e-3fe503798d4b" "GUID a7dcf73d-e4ca-4993-8369-687e3ef425f3"
+	
+}
+- size = 13;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "Jet";
+	- _id = GUID c5f29665-6ed4-4c5c-a476-429b154d7d57;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "KeyReader";
+	- _id = GUID 2b64b9ff-4609-4f66-8a46-3577e90375f7;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "Heater";
+	- _id = GUID 1b3e370c-e77b-442c-8551-a15a4fc7cdb5;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic";
+	- _name = "dishwasher";
+	- _id = GUID 48b8e4b4-95f6-49a7-8c7d-c7b11981cd88;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\EXE.cmpx";
+	- _name = "EXE\\Host";
+	- _id = GUID 6b103aa1-60a6-4f19-8bbc-1ead105af7d5;
+}
+- genTime = 4.12.2023::19:41:26;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "USER";
+	- _id = GUID da891621-0f93-46b2-afd6-ecae726acccd;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "SERVICEMAN";
+	- _id = GUID e02ba96a-fbe4-448a-853b-44e32be890bf;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "Dishwasher";
+	- _id = GUID 6846be9a-1cff-4734-84e7-104543ae0d9b;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "class_10";
+	- _id = GUID e77abae2-0001-4f82-9602-f32f10394752;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "actor_9";
+	- _id = GUID 901f8de4-1894-4c6a-be2c-b2262093b3c0;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _class = "TopLevel";
+	- _name = "object_0";
+	- _id = GUID 8cc6c387-e1f2-435b-b8f1-bc06ea6be854;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "DishwasherBuilder";
+	- _id = GUID 25de9cf2-c11f-428d-9384-71672ddd9101;
+}
+- genTime = 4.12.2023::19:38:2;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Dishwasher_JD_rpy\\dishwasher.sbsx";
+	- _subsystem = "telelogic::dishwasher";
+	- _name = "Display";
+	- _id = GUID 328d8af2-903d-4699-bd98-5417c97c0798;
+}
+- genTime = 4.12.2023::19:38:2;
+

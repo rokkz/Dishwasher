@@ -12,8 +12,8 @@
 			<_id type="a">GUID a7dcf73d-e4ca-4993-8369-687e3ef425f3</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Dishwasher_JD</_name>
-			<_modifiedTimeWeak type="a">3.23.2023::9:22:2</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.23.2023::9:43:34</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.12.2023::19:36:2</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.12.2023::19:36:2</_modifiedTime>
 			<_lastID type="a">6</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -45,7 +45,7 @@
 			<_component type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IComponent</_hm2Class>
-					<_hname type="a">DefaultComponent</_hname>
+					<_hname type="a">EXE</_hname>
 					<_hid type="a">GUID 539a6d26-fa87-4b36-a49e-3fe503798d4b</_hid>
 				</IHandle>
 			</_component>
@@ -309,7 +309,7 @@
 			</Operations>
 		</CGIClass>
 		<IComponent type="e">
-			<fileName type="a">DefaultComponent</fileName>
+			<fileName type="a">EXE</fileName>
 			<_id type="a">GUID 539a6d26-fa87-4b36-a49e-3fe503798d4b</_id>
 		</IComponent>
 		<IUCDiagram type="e">
@@ -630,8 +630,8 @@
 			</_properties>
 			<_name type="a">Dishwasher</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.16.2023::9:50:47</_modifiedTime>
-			<_lastModifiedTime type="a">3.16.2023::9:50:47</_lastModifiedTime>
+			<_modifiedTime type="a">4.12.2023::19:30:25</_modifiedTime>
+			<_lastModifiedTime type="a">4.12.2023::19:30:25</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -760,6 +760,41 @@
 		</CGIClass>
 		<CGIBasicClass type="e">
 			<_id type="a">GUID 384cb429-6d31-43ed-aa63-666501671322</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Actor</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,0,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">124</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -788,7 +823,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.129271 0 0 0.0788091 8.24838 189.14 </m_transform>
+			<m_transform type="a">0.129271 0 0 0.168126 8.24838 166.632 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -873,6 +908,41 @@
 		</CGIBox>
 		<CGIBasicClass type="e">
 			<_id type="a">GUID dfd81dcb-37b1-4ae3-aee7-9245f7d6f6e4</_id>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Actor</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">166,202,240</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
 			<m_type type="a">124</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -901,7 +971,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.157895 0 0 0.0788091 704.211 189.14 </m_transform>
+			<m_transform type="a">0.0877194 0 0 0.168126 716.562 166.632 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1082,7 +1152,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">1259 607 </m_SourcePort>
+			<m_SourcePort type="a">1259 597 </m_SourcePort>
 			<m_TargetPort type="a">30 724 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
@@ -1260,7 +1330,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">1119 642 </m_SourcePort>
-			<m_TargetPort type="a">423 1166 </m_TargetPort>
+			<m_TargetPort type="a">415 1162 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
